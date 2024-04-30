@@ -7,7 +7,11 @@
 Elaborar un informe para exposición sobre GIT y GIT HUB.
 
 ### Integrantes
-- David Calahorrano
+- Master
+- 
+-
+-
+
 
 Este es un repositorio para la materia de Ingeniería de Software II, durante el período 2024-A.
 
@@ -16,5 +20,3 @@ Este es un repositorio para la materia de Ingeniería de Software II, durante el
 - [Nombre del Integrante 1](enlace_del_perfil)
 - [Nombre del Integrante 2](enlace_del_perfil)
 - [Nombre del Integrante 3](enlace_del_perfil)
-- [Nombre del Integrante 4](enlace_del_perfil)
-- [Nombre del Integrante 5](enlace_del_perfil)
